@@ -19,4 +19,6 @@ To ensure a structured and robust development process, the project follows these
 - **Model Deployment:** Deploy the trained model within the Flask app.
 - **Prediction:** Provide real-time predictions through the Flask web app.
 
-> **Note on Credits:** The core methodology and structural workflow of this project were inspired by [BRAIN TUMOR DETECTION [END 2 END]]. I would like to acknowledge their work as it provided a valuable framework for this research and helped me gain deeper insights into Medical AI pipelines. But all the code and the thinking is my work.
+> **Note on Credits:** The core methodology and structural workflow of this project were inspired by [BRAIN TUMOR DETECTION [END 2 END]](https://github.com/shsarv/Machine-Learning-Projects/tree/f25d70d83649dc7001bda3af4257e83a466e3d8d/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D)].
+>
+> I would like to acknowledge their work as it provided a valuable framework for this research and helped me gain deeper insights into Medical AI pipelines. But all the code and the thinking is my work.
